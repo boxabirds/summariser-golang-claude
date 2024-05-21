@@ -1,0 +1,4 @@
+github.com/potproject/claude-sdk-go v1.1.4 h1:R4/jZYHk295mesn6faQD3QkwPO7dbRIGZSHUr6zm0VU=
+github.com/potproject/claude-sdk-go v1.1.4/go.mod h1:0cfNkl21VJGW/XZg+5VfP5eJVRRtRj24cHSBQ/lMNPA=
+github.com/tmaxmax/go-sse v0.8.0 h1:pPpTgyyi1r7vG2o6icebnpGEh3ebcnBXqDWkb7aTofs=
+github.com/tmaxmax/go-sse v0.8.0/go.mod h1:HLoxqxdH+7oSUItjtnpxjzJedfr/+Rrm/dNWBcTxJFM=
